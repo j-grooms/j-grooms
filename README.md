@@ -14,7 +14,6 @@
 
 
 #### Things I Couldn't Find Nifty Badges For...
-- Raw SQL
 - SQLAlchemy
 - Sequelize
 - Postman
