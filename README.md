@@ -20,7 +20,7 @@
 - Postman
 - Visual Studio Code
 
-### Make sure to check out my pinned projects below! 
+### :arrow_double_down::arrow_double_down: **Make sure to check out my pinned projects below!** :arrow_double_down::arrow_double_down:	
 
 
 
